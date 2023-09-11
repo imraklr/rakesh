@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kumar</h1>
-<h3 align="center">A programming language enthusiast. An aspiring full stack developer from India. Rakesh is also involved in Competitive Programming and DSA.</h3>
+<h3 align="center">A programming language enthusiast. An aspiring Software Engineer from India. Rakesh is also involved in Competitive Programming and DSA.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr" /> </p>
  
