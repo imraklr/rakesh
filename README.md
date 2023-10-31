@@ -5,13 +5,9 @@
  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imraklr" alt="imraklr" /></a> </p>
 
-- 🔭 I’m currently working on Android App [Sensight](https://github.com/imraklr/Sensight) and [KounterrAPI](https://github.com/imraklr/KounterrAPI)
-
-- 🌱 I’m currently learning **Spring Boot**
-
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **rklsspty777@gmail.com**
+- <a href = "https://www.linkedin.com/in/rakesh-kumar-4804b71a0/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" width=30 height=30/></a>
 
 - ⚡ Fun fact **I care a lot about memory consumption.**
 
