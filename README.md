@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **Java**
 
-- <a href = "https://www.linkedin.com/in/rakesh-kumar-4804b71a0/"><img src="https://github.com/dheereshagrwal/colored-icons/blob/master/icons/linkedin/linkedin.svg" width=30 height=30/></a>
-
 - ⚡ Fun fact **I care a lot about memory consumption.**
 
 <p align="left">
