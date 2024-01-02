@@ -6,7 +6,7 @@
 * 🤝 I’m looking to collaborate on Java projects.
 * 💬 Ask me about:
   * Backend Web Development (Spring Boot with Java, MySQL)
-  * Coding Languages (Java, C, C++, Kotlin, JS)
+  * Coding Languages (Java, Kotlin)
 * 📅 Hobbies:
   * Exploring programming languages like Rust which offers secure features like ownership etc. with a clear syntax thus offering a behavior resembling that of an abstract programming language while being one of the trending systems programming language used in Kernel (Rust in Kernel)
   * Reading others code
