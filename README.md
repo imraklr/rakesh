@@ -4,9 +4,15 @@
     
 * 🌱 I’m currently learning React, Spring Boot, Microservices.
 * 🤝 I’m looking to collaborate on Java projects.
-* 💬 Ask me about Java and Spring Boot.
-
-Find me @
+* 💬 Ask me about:
+  * Backend Web Development (Spring Boot with Java, MySQL)
+  * Coding Languages (Java, C, C++, Kotlin, JS)
+* 📅 Hobbies:
+  * Exploring programming languages like Rust which offers secure features like ownership thus offering behavior of an abstract programming language while being one of the trending systems programming language used in Kernel (Rust in Kernel)
+  * Reading others code
+  * Cooking
+  * Watching horror movies
+  * etc.
 
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/16fd4c02-cd3e-47bf-8df3-bd6166a998da" width="24px" height="24px" />](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)&emsp;&emsp;
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/03786760-ca24-416c-9b89-0ca9db0311b1" width="24px" height="24px" />](https://stackoverflow.com/users/14105067/imraklr)&emsp;&emsp;
