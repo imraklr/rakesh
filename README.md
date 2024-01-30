@@ -2,7 +2,6 @@
   <h3 align="center">A programming language enthusiast. An aspiring Software Developer from India.</h3>
   <img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
     
-* 🌱 I’m currently learning React, Spring Boot, Microservices.
 * 🤝 I’m looking to collaborate on Java projects.
 * 💬 Ask me about:
   * Backend Web Development (Spring Boot with Java, MySQL)
