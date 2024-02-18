@@ -9,9 +9,8 @@
 * 📅 Hobbies:
   * Exploring programming languages like Rust which offers secure features like ownership etc. with a clear syntax thus offering a behavior resembling that of an abstract programming language while being one of the trending systems programming language used in Kernel (Rust in Kernel)
   * Reading others code
+  * Writing Articles
   * Cooking
-  * Watching horror movies
-  * etc.
 
 **LINKS:**
 &emsp;&emsp;[<img src="https://github.com/imraklr/imraklr/assets/44721620/16fd4c02-cd3e-47bf-8df3-bd6166a998da" width="24px" height="24px" />](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)&emsp;&emsp;
