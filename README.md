@@ -1,6 +1,6 @@
 <h1 align="center">नमस्ते 🙏🏻, I'm Rakesh Kumar</h1>
 
-### $${\color{#00A4EF} \space \sim S \color{#222299}oftware \space \color{#00A4EF} E \color{#222299}ngineer \color{#00A4EF} \sim}$$ $${\color{#F25022} \sim \color{#7FBA00}A \space \color{#00A4EF}programming \space \color{#FFB900}language \space \color{#737373}enthusiast \color{#F25022} \sim}$$
+### $${\color{#00A4EF} \space \sim S \color{purple}oftware \space \color{#00A4EF} E \color{purple}ngineer \color{#00A4EF} \sim}$$ $${\color{#F25022} \sim \color{#7FBA00}A \space \color{#00A4EF}programming \space \color{#FFB900}language \space \color{#737373}enthusiast \color{#F25022} \sim}$$
 
 <img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
 
