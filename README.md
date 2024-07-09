@@ -1,22 +1,30 @@
+<div style="
+  font-weight: bold; background: radial-gradient(circle, 
+      #0078D7, /* Microsoft Blue */
+      #4285F4, /* Google Blue */
+      #00A4EF, /* Microsoft Green */
+      #34A853, /* Google Green */
+      #FFD700, /* Microsoft Yellow */
+      #FBBC05, /* Google Yellow */
+      #E81123, /* Microsoft Red */
+      #EA4335  /* Google Red */
+  ); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; animation: gradient-animation 1s infinite linear;
+">
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Rakesh Kumar</h1>
-<h3 align="center">A programming language enthusiast. An aspiring Software Engineer from India.</h3>
+<h3 align="center">~ An aspiring Software Engineer from India ~</br>~ A programming language enthusiast ~</h3>
 <img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
-    
+* I am a final-year student at KIIT University, BBSR, Odisha pursuing a course in Computer Science & Communication Engg.
 * 🤝 I am always ready to collaborate and contribute according to my skills and expertise.
-* 💬 Ask me about:
-  * 7 layers of OSI model
-  * Java
-  * Backend Web Development (Spring Boot)
-  * DevOps
 * 📅 Hobbies:
-  * Exploring programming languages like Rust which offers secure features like ownership etc. with a clear syntax thus offering a behavior resembling that of an abstract programming language while being one of the trending systems programming language used in Kernel (Rust in Kernel)
+  * Exploring programming languages
   * Reading others code
   * Writing Articles
+</div>
  
 <hr>
 
 **LINKS:**
-&emsp;&emsp;[Check out my Portfolio](https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer)
+&emsp;<a href="https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer" style="font-size:large;color:;">Portfolio</a>
 &emsp;&emsp;[<img src="https://github.com/imraklr/imraklr/assets/44721620/16fd4c02-cd3e-47bf-8df3-bd6166a998da" width="24px" height="24px" />](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)&emsp;&emsp;
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/03786760-ca24-416c-9b89-0ca9db0311b1" width="24px" height="24px" />](https://stackoverflow.com/users/14105067/imraklr)&emsp;&emsp;
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/f530d2cd-2731-4c66-a88f-c8f4bf7db1cd" width="24px" height="24px" />](https://www.youtube.com/@rootnode9513)
@@ -40,5 +48,5 @@
 ### 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=imraklr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Quote
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=libre_baskerville)
