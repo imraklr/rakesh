@@ -1,25 +1,15 @@
-<div style="
-  font-weight: bold; background: radial-gradient(circle, 
-      #0078D7, /* Microsoft Blue */
-      #4285F4, /* Google Blue */
-      #00A4EF, /* Microsoft Green */
-      #34A853, /* Google Green */
-      #FFD700, /* Microsoft Yellow */
-      #FBBC05, /* Google Yellow */
-      #E81123, /* Microsoft Red */
-      #EA4335  /* Google Red */
-  ); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; color: transparent; animation: gradient-animation 1s infinite linear;
-">
+![gradient](https://github.com/imraklr/imraklr/blob/main/grad.svg) 
+
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Rakesh Kumar</h1>
 <h3 align="center">~ An aspiring Software Engineer from India ~</br>~ A programming language enthusiast ~</h3>
 <img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
+
 * I am a final-year student at KIIT University, BBSR, Odisha pursuing a course in Computer Science & Communication Engg.
 * 🤝 I am always ready to collaborate and contribute according to my skills and expertise.
 * 📅 Hobbies:
   * Exploring programming languages
   * Reading others code
   * Writing Articles
-</div>
  
 <hr>
 
