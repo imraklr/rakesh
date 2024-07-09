@@ -1,9 +1,8 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Rakesh Kumar</h1>
 
-<h2 style="text-align: center;">
-  <span style="color: #00A4EF;">S</span><span style="color: #FFE5B4;">oftware</span>
-  <span style="color: #00A4EF;">E</span><span style="color: #FFE5B4;">ngineer</span>
-</h2>
+<h3 align="center" style="color:blue;">Changed Everything</h3>
+
+## ${\color{#00A4EF} \space S \color{#FFE5B4}oftware \space \color{#00A4EF} E \color{#FFE5B4}ngineer}$
 
 <h3 align="center">~ An aspiring Software Engineer from India ~</br>~ A programming language enthusiast ~</h3>
 <img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
