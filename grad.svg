@@ -1,7 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
-  <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+
+  <!-- Define the linear gradient -->
+  <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" style="stop-color:#ff9966;" />
     <stop offset="100%" style="stop-color:#ff5e62;" />
   </linearGradient>
-  <rect x="0" y="0" width="100" height="100" fill="url(#gradient)" />
+
+  <!-- Rectangle for background (optional) -->
+  <!-- <rect x="0" y="0" width="100%" height="100%" fill="none" /> -->
+
+  <!-- Text with gradient fill -->
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle"
+        font-size="48" fill="url(#gradient)">
+    Hello, GitHub!
+  </text>
 </svg>
