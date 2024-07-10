@@ -10,11 +10,12 @@
   * Exploring programming languages
   * Reading others code
   * Writing Articles
+  * Coming up with amazing project ideas (Let's team up!!)
  
 <hr>
 
 **LINKS:**
-&emsp;<a href="https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer" style="font-size:large;color:;">Portfolio</a>
+&emsp;<a href="https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer" style="font-size:x-large;color:#FF4549;border:solid 2px red;border-radius:8px;background:#FFEEEE">Portfolio</a>
 &emsp;&emsp;[<img src="https://github.com/imraklr/imraklr/assets/44721620/16fd4c02-cd3e-47bf-8df3-bd6166a998da" width="24px" height="24px" />](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)&emsp;&emsp;
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/03786760-ca24-416c-9b89-0ca9db0311b1" width="24px" height="24px" />](https://stackoverflow.com/users/14105067/imraklr)&emsp;&emsp;
 [<img src="https://github.com/imraklr/imraklr/assets/44721620/f530d2cd-2731-4c66-a88f-c8f4bf7db1cd" width="24px" height="24px" />](https://www.youtube.com/@rootnode9513)
