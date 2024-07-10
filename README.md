@@ -11,33 +11,39 @@
   * Reading others code
   * Writing Articles
   * Coming up with amazing project ideas (Let's team up!!)
- 
-<hr>
 
 **LINKS:**
-&emsp;<a href="https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer">Portfolio</a>
-&emsp;&emsp;[<img src="https://github.com/imraklr/imraklr/assets/44721620/16fd4c02-cd3e-47bf-8df3-bd6166a998da" width="24px" height="24px" />](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)&emsp;&emsp;
-[<img src="https://github.com/imraklr/imraklr/assets/44721620/03786760-ca24-416c-9b89-0ca9db0311b1" width="24px" height="24px" />](https://stackoverflow.com/users/14105067/imraklr)&emsp;&emsp;
-[<img src="https://github.com/imraklr/imraklr/assets/44721620/f530d2cd-2731-4c66-a88f-c8f4bf7db1cd" width="24px" height="24px" />](https://www.youtube.com/@rootnode9513)
+&emsp;&emsp;[Portfolio](https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer)
+&emsp;&emsp;[LinkedIn](https://www.linkedin.com/in/rakesh-kumar-4804b71a0/)
+&emsp;&emsp;[StackOverflow](https://stackoverflow.com/users/14105067/imraklr)
+&emsp;&emsp;[YouTube Channel](https://www.youtube.com/@rootnode9513)
 
 <hr>
 
 <p align="center">
   <h3 align="center">Languages</h3>
-  <!-- Divider -->
   <hr>
-  <h3 align="center">Tools</h3>
+  <h3 align="center">IDEs</h3>
+  <hr>
+  <h3 align="center">Framework/Libraries I have worked with...</h3>
 </p>
+
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr" /> </p>
 
+<div align="center">
+
 ### 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=imraklr&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=imraklr&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imraklr&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=imraklr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&bg_color=00000000&border_radius=32)
+![](https://github-readme-streak-stats.herokuapp.com/?user=imraklr&theme=shadow_red&bg_color=00000000&hide_border=false&border_radius=32)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imraklr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical&border_radius=32&bg_color=00000000)
 
 ### 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=imraklr&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=imraklr&theme=shadow_red&no-frame=true&no-bg=false&margin-w=4&bg_color=00000000)
+
 
 ### ✍️Quote
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=libre_baskerville)
+ 
+</div>
