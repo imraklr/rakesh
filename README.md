@@ -91,10 +91,6 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=imraklr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&bg_color=00000000&border_radius=32)
-![](https://github-readme-streak-stats.herokuapp.com/?user=imraklr&theme=shadow_red&bg_color=00000000&hide_border=false&border_radius=32)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=imraklr&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=donut-vertical&border_radius=32&bg_color=00000000)</br>
-
 ![](https://github-trophies.vercel.app/?username=imraklr&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)<\br>
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=libre_baskerville)
