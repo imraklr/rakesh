@@ -6,8 +6,6 @@
 
 </div>
 
-<img align='right' src="https://media4.giphy.com/media/XmSFPR3MUxNlCWwNQY/giphy.gif?cid=ecf05e47xgz59qkf0hcqjngzlrr2f3fu4kutzocprptz7kmy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="250" height="250" class="giphy-embed"/>
-
 <div style="display: flex; flex-direction: column; align-items: center; margin: auto; padding: 20px;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
     <ul>
