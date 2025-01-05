@@ -1,10 +1,10 @@
 <div align="center">
 
-# $${\color{#C49991} 𝓢 \color{#000000}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#C49991} Ξ \color{#000000}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
+# $${\color{#e07a5f} 𝓢 \color{#000000}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#e07a5f} Ξ \color{#000000}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=0&days=40&bg_color=00000000&line=8ab0ab&area=true&area_color=26413c&color=03120e&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
 
 <hr>
   <div style="display: flex; justify-content: center; margin-bottom: 20px;">
