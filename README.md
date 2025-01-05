@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=imraklr&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)<\br>
+![](https://github-trophies.vercel.app/?username=imraklr&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)
 
 ![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=libre_baskerville)
  
