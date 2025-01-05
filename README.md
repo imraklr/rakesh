@@ -30,9 +30,6 @@
     <a href="https://stackoverflow.com/users/14105067/imraklr" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
     </a>
-    <a href="https://www.youtube.com/@rootnode9513" style="margin: 0 10px;">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>
-    </a>
     <a href="https://medium.com/@rklsspty777" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
     </a>
