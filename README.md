@@ -1,6 +1,6 @@
 <div align="center">
 
-## $${|\color{#FF0000} Java \space \color{#D68A3B} Developer} {\color{#00A4EF} | \space S \color{purple}oftware \space \color{#00A4EF} E \color{purple}ngineer \color{#00A4EF}} {|\color{#0000FF} Open \space Source \space Contributor |} $$
+## $${|{\color{#00A4EF} | \space S \color{purple}oftware \space \color{#00A4EF} E \color{purple}ngineer \color{#00A4EF}} {|\color{#0000FF} Open \space Source \space Contributor |} $$
 
 </div>
 
