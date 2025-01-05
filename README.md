@@ -21,7 +21,7 @@
   </div>
   
   <div style="display: flex; justify-content: center; margin-bottom: 20px;">
-    <a href="https://portfolios-ypkg.onrender.com/portfolio?role=software-engineer" style="margin: 0 10px;">
+    <a href="https://" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
     </a>
     <a href="https://www.linkedin.com/in/rakesh-kumar-4804b71a0/" style="margin: 0 10px;">
