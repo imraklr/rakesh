@@ -1,24 +1,8 @@
 <div align="center">
 
-## $${|{\color{#00A4EF} | \space S \color{purple}oftware \space \color{#00A4EF} E \color{purple}ngineer \color{#00A4EF}} {|\color{#0000FF} Open \space Source \space Contributor |} $$
+## $${\color{#00A4EF} 𝓢 \color{purple}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#00A4EF} Ξ \color{purple}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
 
 </div>
-
-<div style="display: flex; flex-direction: column; align-items: center; margin: auto; padding: 20px;">
-  <div style="display: flex; flex-direction: column; align-items: flex-start; margin-bottom: 20px;">
-    <ul>
-      <li>I am a final-year student at KIIT University, BBSR, Odisha pursuing a course in Computer Science & Communication Engg.</li>
-      <li>🤝 I am always ready to collaborate and contribute according to my skills and expertise.</li>
-      <li>📅 Hobbies:
-        <ul>
-          <li>Exploring programming languages</li>
-          <li>Reading others code</li>
-          <li>Writing Articles</li>
-          <li>Coming up with amazing project ideas (Let's team up!!)</li>
-        </ul>
-      </li>
-    </ul>
-  </div>
   
   <div style="display: flex; justify-content: center; margin-bottom: 20px;">
     <a href="https://" style="margin: 0 10px;">
@@ -36,12 +20,10 @@
     <a href="mailto:rakesh.at.work.9@gmail.com" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
+    <a>
+      <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr"/>
+    </a>
   </div>
-
-  <div style="display: flex; justify-content: center;">
-    <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr"/>
-  </div>
-</div>
 
 [![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
 
