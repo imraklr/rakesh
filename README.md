@@ -1,9 +1,12 @@
 <div align="center">
 
-## $${\color{#00A4EF} 𝓢 \color{purple}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#00A4EF} Ξ \color{purple}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
+## $${\color{#C49991} 𝓢 \color{#000000}ℴ𝒻𝓉𝓌𝒶𝓇ℯ \space \color{#C49991} Ξ \color{#000000}𝓃ℊ𝒾𝓃ℯℯ𝓇} $$
 
 </div>
-  
+
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
+
+<hr>
   <div style="display: flex; justify-content: center; margin-bottom: 20px;">
     <a href="https://" style="margin: 0 10px;">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
@@ -24,13 +27,9 @@
       <img src="https://komarev.com/ghpvc/?username=imraklr&label=Profile%20views&color=0e75b6&style=flat" alt="imraklr"/>
     </a>
   </div>
-
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
-
 <hr>
 
 <div style="display: flex; margin: auto; padding: 20px;">
-
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
@@ -52,6 +51,7 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green"/>
+</div>
 
 <hr>
 
