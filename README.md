@@ -4,7 +4,7 @@
 
 </div>
 
-[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=0&days=40&bg_color=00000000&line=8ab0ab&area=true&area_color=26413c&color=03120e&hide_border=true&grid=false&hide_title=true)](https://github.com/imraklr/github-readme-activity-graph)
+[![Rakesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imraklr&radius=16&days=40&bg_color=00000000&line=e9d3d0&area=true&area_color=e86a92&color=03120e&hide_border=true&grid=false&hide_title=true&point=da4167)](https://github.com/imraklr/github-readme-activity-graph)
 
 <hr>
   <div style="display: flex; justify-content: center; margin-bottom: 20px;">
@@ -55,8 +55,8 @@
 
 <div align="center">
 
-![](https://github-trophies.vercel.app/?username=imraklr&theme=shadow_red&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)
+![](https://github-trophies.vercel.app/?username=imraklr&theme=flat&no-frame=true&no-bg=true&margin-w=4&bg_color=00000000)
 
-![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=transparent&font=libre_baskerville)
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=light&category=programming&border_width=0&font=turret_road&quote_color=88292F&accent_color=2e4052&bg_color=c5b1b7&author_color=ac3931)
  
 </div>
